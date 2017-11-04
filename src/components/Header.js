@@ -1,8 +1,5 @@
 var m = require("mithril")
 
-// var Home = require("../pages/Home")
-// var About = require("../pages/About")
-
 var Header = {
     view: function() {
         return m("nav", [
